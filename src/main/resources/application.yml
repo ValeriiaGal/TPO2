@@ -1,0 +1,12 @@
+pl:
+  edu:
+    pja:
+      tpo02:
+        filename: "src/main/resources/words.csv"
+
+spring:
+  profiles:
+    active: uppercase
+
+banner:
+  location: "classpath:logo-app"
